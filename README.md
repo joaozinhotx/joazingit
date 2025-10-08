@@ -44,13 +44,13 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **SESI 427**
 - 💻 Estou aprendendo **GitHub, JavaScript, React, Flutter, Python, e mais**
-- 🎯 Meu objetivo é **me tornar um desenvolvedor Full Stack e atuar no exterior**
-- 📚 Gosto de aprender sobre **trading, empreendedorismo, e novas tecnologias**
+- 🎯 Meu objetivo é **"Meu objetivo é atuar como Desenvolvedor de Sistemas no exterior, buscando constante aprimoramento profissional e acadêmico, especialmente na área de trading. Além disso, almejo utilizar meus conhecimentos e recursos para contribuir de forma significativa na vida de outras pessoas."**
+- 📚 **"Tenho grande interesse em estudar sobre o mercado financeiro, especialmente na área de trading, e me desenvolver como programador de sites com foco em oportunidades internacionais. Almejo construir uma carreira sólida no exterior, empreender em diversos segmentos e, com isso, gerar impacto positivo por meio das minhas conquistas."**
 - ✝ Versículo que me inspira:  
   > *"Vocês são a luz do mundo. Não se pode esconder uma cidade construída sobre um monte."*  
   > — *Mateus 5:14*
   > 
-> *"Eu andarei vestido e armado com as armas de São Jorge..."*
+> **"Eu andarei vestido e armado com as armas de São Jorge...🛡️⚔️"**
 
 ---
 
