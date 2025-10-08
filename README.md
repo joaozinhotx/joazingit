@@ -1,6 +1,5 @@
-# 👨‍💻 Sobre Mim prazer eu sou o Joao
-
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação**, e **criação de projetos web e mobile**. Tenho interesse especial em **Front-End e cibersegurança**, e busco oportunidades para crescer como desenvolvedor atuando no exterior.
+# 👨‍💻 Sobre Mim 
+Prazer Meu nome é João Pedro Nascimento Ferreira Sou um estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação**, e **criação de projetos web e mobile**. Tenho interesse especial em **Front-End e cibersegurança**, e busco oportunidades para crescer como desenvolvedor atuando no exterior.
 
 ---
 
@@ -42,7 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **SESI 427**
+- 🎓 Atualmente estudo no **SESI 427** e faço curso tecnico no **Senai Guarulhos - Hermenegildo Campos de Almeida**
 - 💻 Estou aprendendo **GitHub, JavaScript, React, Flutter, Python, e mais**
 - 🎯 Meu objetivo é **"Meu objetivo é atuar como Desenvolvedor de Sistemas no exterior, buscando constante aprimoramento profissional e acadêmico, especialmente na área de trading. Além disso, almejo utilizar meus conhecimentos e recursos para contribuir de forma significativa na vida de outras pessoas."**
 - 📚 **"Tenho grande interesse em estudar sobre o mercado financeiro, especialmente na área de trading, e me desenvolver como programador de sites com foco em oportunidades internacionais. Almejo construir uma carreira sólida no exterior, empreender em diversos segmentos e, com isso, gerar impacto positivo por meio das minhas conquistas."**
